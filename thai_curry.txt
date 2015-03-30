@@ -1,0 +1,15 @@
+def thai_curry():
+    coconut_cream.heat()
+    if you_like_spicy:
+        for spoon in range(1:4):
+            tablespoon_of_currypaste.add()
+    else:
+        tablespoon_of_currypaste.add()
+    limeleaf.add()
+    veggies.add()
+    shrimp.add()
+    put_on_plate(one_serving)
+    return thai_curry
+
+thai_curry()
+# Enjoy!!
